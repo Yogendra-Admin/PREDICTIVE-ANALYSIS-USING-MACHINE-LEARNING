@@ -1,12 +1,163 @@
-# PREDICTIVE-ANALYSIS-USING-MACHINE-LEARNING
-"COMPANY":CODTECH IT SOLUTION
-"NAME":YOGENDRA CHAUDHARY
-"INTERN ID":CTIS5669
-"DOMAIN":DATA ANALYSIS
-"DURATION": 4 WEEKS
-##This task is a text analysis and machine learning project where we use Python to analyze customer reviews and predict their ratings. The main goal of this task is to take written reviews (text data), convert them into a format that a machine learning model can understand, and then train a model to predict the review score.
+📊 CODTECH Data Analysis Internship Projects
 
-The project uses several popular Python libraries such as Pandas, NumPy, Matplotlib, and Scikit-learn. These libraries help with data handling, numerical operations, visualization, and machine learning.
+This repository contains the tasks completed as part of the Data Analysis Internship at CODTECH IT Solutions.
+The objective of this internship is to develop practical skills in Big Data Analysis, Machine Learning, NLP, and Data Visualization using modern data tools.
 
-##OUTPUT
-<img width="527" height="393" alt="Image" src="https://github.com/user-attachments/assets/0d19f917-c65d-4636-9d85-2750ca143a7c" />
+📁 Repository Structure
+Data-Analysis-Internship/
+│
+├── Task1_BigData_PySpark.ipynb
+├── Task2_MachineLearning_Prediction.ipynb
+├── Task3_Dashboard.pbix
+├── Task4_SentimentAnalysis_NLP.ipynb
+│
+├── dataset/
+│   └── Reviews.csv
+│
+└── README.md
+🚀 Tasks Completed
+Task 1 – Big Data Analysis
+
+Performed analysis on a large dataset using PySpark to demonstrate scalable data processing.
+
+Key Steps
+
+Loading large dataset
+
+Data cleaning
+
+Distributed processing
+
+Aggregation analysis
+
+Insights generation
+
+Example Insights
+
+Most product reviews have ratings between 4 and 5, indicating positive customer satisfaction.
+
+A few products receive a very high number of reviews, showing strong popularity.
+
+🤖 Task 2 – Predictive Analysis Using Machine Learning
+
+Developed a machine learning model to predict outcomes from the dataset using scikit-learn.
+
+Steps Performed
+
+Data preprocessing
+
+Feature selection
+
+Train-test split
+
+Model training
+
+Model evaluation
+
+Model Used
+
+Logistic Regression
+
+Evaluation Metrics
+
+Accuracy Score
+
+Classification Report
+
+🧠 Task 3 – Interactive Dashboard
+
+Created a dashboard using Power BI to visualize key insights from the dataset.
+
+Dashboard Features
+
+Rating distribution
+
+Product review analysis
+
+Interactive filters
+
+Data-driven insights
+
+💬 Task 4 – Sentiment Analysis Using NLP
+
+Performed sentiment analysis on product reviews using Natural Language Processing techniques.
+
+Techniques Used
+
+Text preprocessing
+
+Stopword removal
+
+Lemmatization
+
+TF-IDF feature extraction
+
+Model
+
+Logistic Regression for sentiment classification.
+
+Sentiment Categories
+
+Positive
+
+Neutral
+
+Negative
+
+🛠 Technologies Used
+
+Python
+
+PySpark
+
+pandas
+
+scikit-learn
+
+NLTK
+
+Power BI
+
+Visual Studio Code
+
+Jupyter Notebook
+
+📊 Dataset
+
+The project uses the Amazon Fine Food Reviews dataset, containing customer reviews and ratings for food products.
+
+Dataset includes:
+
+Product ID
+
+User reviews
+
+Ratings (1–5)
+
+Review summaries
+
+Review text
+
+📈 Key Learning Outcomes
+
+During this internship, the following skills were developed:
+
+Big Data processing using PySpark
+
+Machine Learning model development
+
+Natural Language Processing techniques
+
+Data visualization and dashboard design
+
+Insight extraction from large datasets
+
+👨‍💻 Author
+
+Yogendra Chaudhary
+
+Data Analyst | Python | Machine Learning | Data Visualization
+
+📜 Internship
+
+Completed as part of the Data Analysis Internship Program at CODTECH IT Solutions.
